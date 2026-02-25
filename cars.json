@@ -1,0 +1,16 @@
+{
+    "ABC123": {
+        "brand": "Volvo",
+        "model": "XC60",
+        "year": 2022,
+        "price": 350000,
+        "mileage": 1500
+    },
+    "XYZ789": {
+        "brand": "BMW",
+        "model": "320i",
+        "year": 2020,
+        "price": 280000,
+        "mileage": 4500
+    }
+}
